@@ -1,1 +1,1 @@
-# github-and-jpg-extentions
+# github-and-changing jpg-extentions
